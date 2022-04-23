@@ -1,0 +1,5 @@
+*/__pycache__
+log/*.txt
+__pycache__
+log.txt
+*/log.txt
